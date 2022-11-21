@@ -1,0 +1,27 @@
+{
+  "name": "tymix",
+  "version": "1.0.0",
+  "description": "play music depending on mood of time of day",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkrumahthis/tymix.git"
+  },
+  "keywords": [
+    "music",
+    "electronjs",
+    "beginner",
+    "timer",
+    "cron",
+    "linux"
+  ],
+  "author": "Emmanuel Nkrumah Sarpong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkrumahthis/tymix/issues"
+  },
+  "homepage": "https://github.com/nkrumahthis/tymix#readme"
+}
